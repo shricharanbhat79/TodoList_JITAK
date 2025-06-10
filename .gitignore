@@ -14,8 +14,9 @@ docs/_build
 dist
 results
 venv
+/.env
 
 # editor
 .ropeproject
 .vscode
-.env
+
