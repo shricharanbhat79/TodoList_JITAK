@@ -18,3 +18,4 @@ venv
 # editor
 .ropeproject
 .vscode
+.env
