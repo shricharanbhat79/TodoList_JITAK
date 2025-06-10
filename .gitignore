@@ -14,7 +14,8 @@ docs/_build
 dist
 results
 venv
-/.env
+.env
+*.env
 
 # editor
 .ropeproject
